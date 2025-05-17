@@ -21,3 +21,12 @@ print(x)
 # Atribuição com módulo
 x %= 5  # Equivalente a: x = x % 5 (agora x vale 1.0)
 print(x)
+
+print("EXERCÍCIOS")
+# Exercício 1: Use o operador de atribuição para subtrair 7 de uma variável y iniciada com 20 e imprima o resultado.
+
+
+# Exercício 2: Crie uma variável z com valor 4, multiplique-a por 3 usando o operador de atribuição e imprima o resultado.
+
+
+# Exercício 3: Inicie uma variável w com 18, divida-a por 2 usando o operador de atribuição e imprima o resultado.

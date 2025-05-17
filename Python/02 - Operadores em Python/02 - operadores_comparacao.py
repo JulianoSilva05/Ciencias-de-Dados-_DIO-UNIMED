@@ -55,3 +55,10 @@ lista1 = [1, 2, 3]
 lista2 = [1, 2, 3]
 print(lista1 == lista2)  # True (valores iguais)
 print(lista1 is lista2)  # False (objetos diferentes na memória)
+
+print("EXERCÍCIOS")
+# Exercício 1: Verifique se o número 5 é maior que 3
+
+# Exercício 2: Verifique se a string "Python" é igual a "python"
+
+# Exercício 3: Verifique se a lista [1, 2] é diferente da lista [2, 1]

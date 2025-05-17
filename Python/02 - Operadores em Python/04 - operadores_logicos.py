@@ -45,3 +45,12 @@ print(vou_sair)      # Saída: True
 # or: True se pelo menos um for True.
 # not: Inverte o valor lógico.
 # Esses operadores são muito usados em estruturas condicionais (if, while, etc.) para tomar decisões baseadas em múltiplas condições.
+
+print("EXERCÍCIOS")
+# Exercício 1: Verifique se uma pessoa pode votar (idade >= 16 e tem título de eleitor)
+
+
+# Exercício 2: Verifique se um aluno foi aprovado (nota >= 7 ou fez trabalho extra)
+
+
+# Exercício 3: Verifique se um produto NÃO está disponível (estoque == 0)
