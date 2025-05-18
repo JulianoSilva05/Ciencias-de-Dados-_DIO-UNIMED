@@ -5,6 +5,12 @@ idade = int(input("Qual a sua idade: \n"))
 
 if idade >= MAIOR_DE_IDADE:
     print("Pode tirar a habilitação")
+if idade < MAIOR_DE_IDADE:
+    print("Ainda não pode tirar a habilitação")
+    print(f"Espere mais {MAIOR_DE_IDADE - idade} ano(s)")
+
+if idade >= MAIOR_DE_IDADE:
+    print("Pode tirar a habilitação")
 else:
     print("Ainda não pode tirar a habilitação")
     print(f"Espere mais {MAIOR_DE_IDADE - idade} ano(s)")
